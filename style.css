@@ -1,0 +1,24 @@
+header{
+    background-color: antiquewhite;
+    height:1100px;
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+}
+
+header img{
+    position: absolute;
+    left: 40px;
+    height: 130px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+button{
+    background-color:  aquamarine;
+    color:aliceblue
+    
+}
+
